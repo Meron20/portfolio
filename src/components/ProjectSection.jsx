@@ -8,7 +8,7 @@ const projects = [
       description: "Full React project with product browsing, cart, authentication, and simulated checkout.",
       image:"/projects/project1.jpeg",
       tags: ["React, HTML, CSS"],
-      demoUrl: "#",
+      demoUrl: "http://e-commerce-g1z4.vercel.app",
       githubUrl: "https://github.com/Meron20/E-commerce"
         
     },
